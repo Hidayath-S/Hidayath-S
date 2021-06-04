@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hidayath
 - 👀 I’m interested in Test Automation , UI ,API , CDC-PACT JVM and Microservices Testing and Service Virtualization
-- 🌱 I’m currently learning API Automating uisng Serenity BDD
+- 🌱 I’m currently learning API Automating using Serenity BDD
 - 💞️ I’m looking to collaborate on API Testing and Service Virtualization
 - 📫 Reach me on hiddu91@gmail.com or https://www.linkedin.com/in/hidayathulla-s-8b606246
 
